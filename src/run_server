@@ -1,0 +1,4 @@
+PORT=3333
+
+echo "Running Server on port $PORT"
+java Server $PORT
