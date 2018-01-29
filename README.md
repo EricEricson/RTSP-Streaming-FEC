@@ -81,3 +81,6 @@ Binden Sie ein eigenes Video ein. Dazu ist entweder das Video entsprechend der S
 * Reed-Solomon Forward Error Correction (FEC) Schemes   [RFC 5510](http://www.ietf.org/rfc/rfc5510.txt)
 * JPEG-Format [Link](https://de.wikipedia.org/wiki/JPEG_File_Interchange_Format)
 * Diplomarbeit Karsten Pohl "Demonstration des RTSP-Videostreamings mittels VLC-Player und einer eigenen Implementierung"  [pdf](https://www2.htw-dresden.de/~jvogt/abschlussarbeiten/Pohl-Diplomarbeit.pdf)
+
+
+&copy; s73952@htw-dresden.de 
