@@ -646,7 +646,7 @@ public class Client{
 			   	int seqnr = rtp_packet.getsequencenumber();
 			   	if(lastSequenceNumber >= seqnr) 						//zu altes Paket
 			   	{	numOld++;
-			   		continue;		
+			   		continue;
 			   	}
 			   	numOK++;
 			   	numLost += seqnr - (lastSequenceNumber +1);				//fehlende Pakete ermitteln
