@@ -83,4 +83,4 @@ Binden Sie ein eigenes Video ein. Dazu ist entweder das Video entsprechend der S
 * Diplomarbeit Karsten Pohl "Demonstration des RTSP-Videostreamings mittels VLC-Player und einer eigenen Implementierung"  [pdf](https://www2.htw-dresden.de/~jvogt/abschlussarbeiten/Pohl-Diplomarbeit.pdf)
 
 
-&copy; s73952@htw-dresden.de 
+&copy; <a href="https://github.com/EricEricson">EricEricson</a> 
